@@ -2,18 +2,23 @@
 
 Angular Forms:
 
-https://www.edrawmind.com/online/map.html?sharecode=632434ce114e13a81911370
+https://www.edrawmind.com/online/map.html?sharecode=6324709ee27487a48835551
 
+_____________________________________________________________________________________________________________________
+
+<ng-template> (TemplateRef):
+
+https://www.edrawmind.com/online/map.html?sharecode=63247217924cb1a81321149
 _____________________________________________________________________________________________________________________
 
 DOM Manipulations in Angular:
 
-https://www.edrawmind.com/online/map.html?sharecode=632438422d15b8a49046573
+https://www.edrawmind.com/online/map.html?sharecode=632470f51b81f5a57145580
 
 _____________________________________________________________________________________________________________________
 
 Directives & Custom Directives:
 
-https://www.edrawmind.com/online/map.html?sharecode=63243e46f3ea69a49724010
+https://www.edrawmind.com/online/map.html?sharecode=632470cdebaef1a12540299
 
 _____________________________________________________________________________________________________________________
