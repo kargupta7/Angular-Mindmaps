@@ -11,7 +11,7 @@ ________________________________________________________________________________
 https://www.edrawmind.com/online/map.html?sharecode=63247217924cb1a81321149
 _____________________________________________________________________________________________________________________
 
-DOM Manipulations in Angular:
+DOM Abstractions in Angular:
 
 https://www.edrawmind.com/online/map.html?sharecode=632470f51b81f5a57145580
 
